@@ -1,0 +1,5 @@
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\bin\Debug\ProductMicroservice.dll
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\bin\Debug\ProductMicroservice.pdb
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\obj\Debug\docker-compose.dcproj.CopyComplete

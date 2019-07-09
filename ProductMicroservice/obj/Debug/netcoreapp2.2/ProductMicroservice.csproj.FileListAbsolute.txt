@@ -1,0 +1,14 @@
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.AssemblyInfoInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.AssemblyInfo.cs
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.deps.json
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.runtimeconfig.json
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.runtimeconfig.dev.json
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.dll
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\bin\Debug\netcoreapp2.2\ProductMicroservice.pdb
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorAssemblyInfo.cache
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorAssemblyInfo.cs
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.dll
+C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice\ProductMicroservice\obj\Debug\netcoreapp2.2\ProductMicroservice.pdb

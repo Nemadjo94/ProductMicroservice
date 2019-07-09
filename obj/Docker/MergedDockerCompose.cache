@@ -1,0 +1,22 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  productmicroservice:
+    build:
+      context: C:\Users\Nemanja Djordjevic\source\repos\ProductMicroservice
+      dockerfile: ProductMicroservice\Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: productmicroservice
+    ports:
+    - published: 50906
+      target: 80
+    - published: 44391
+      target: 443
+    volumes:
+    - C:\Users\Nemanja Djordjevic\AppData\Roaming\ASP.NET\Https:C:\Users\ContainerUser\AppData\Roaming\ASP.NET\Https:ro
+    - C:\Users\Nemanja Djordjevic\AppData\Roaming\Microsoft\UserSecrets:C:\Users\ContainerUser\AppData\Roaming\Microsoft\UserSecrets:ro
+version: '3.4'
